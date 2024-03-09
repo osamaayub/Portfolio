@@ -20,7 +20,7 @@ const Portfolio = () => {
     {
       id: 3,
       src: blogWebsite,
-      link: "blogwebsiteresponsive.netlify.app",
+      link:"https://osamaayub.github.io/BlogWebsite/",
       code: "https://github.com/osamaayub/BlogWebsite",
     },
   ];
